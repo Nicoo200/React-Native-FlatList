@@ -46,5 +46,4 @@ npx expo start
  ## 📝 Licença
 Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar e modificar.
 
-## 👨‍💻 Desenvolvido por
-Nicoo 200
+### 👨‍💻 Desenvolvido por ❤️ [Nicoo200](https://github.com/Nicoo200) ! 
