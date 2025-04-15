@@ -5,7 +5,7 @@ Este é um projeto básico desenvolvido com **React Native**, que demonstra o us
 ## 🚀 Tecnologias utilizadas
 
 - [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/) (opcional, caso tenha usado)
+- [Expo](https://expo.dev/)
 - JavaScript
 
 ## 📋 Funcionalidades
@@ -19,5 +19,32 @@ Este é um projeto básico desenvolvido com **React Native**, que demonstra o us
 1. Clone o repositório:
 
 ```bash
-git clone 
-cd seu-repo
+git clone https://github.com/Nicoo200/React-Native-FlatList.git
+cd React-Native-FlatList
+````
+
+2. Instale as dependências:
+
+```bash
+npm install
+# ou
+yarn
+Execute o projeto:
+````
+3.Execute o projeto:
+```bash
+npx react-native run-android
+# ou
+npx react-native run-ios
+````
+
+Se estiver usando Expo:
+```bash
+npx expo start
+````
+
+ ## 📝 Licença
+Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar e modificar.
+
+## 👨‍💻 Desenvolvido por
+Nicoo 200
